@@ -1,0 +1,8 @@
+﻿  Battle.cpp
+c:\users\george\documents\visual studio 2015\projects\speedpete\speedpete\battle.cpp(45): warning C4018: '<': signed/unsigned mismatch
+c:\users\george\documents\visual studio 2015\projects\speedpete\speedpete\battle.cpp(58): warning C4018: '<': signed/unsigned mismatch
+c:\users\george\documents\visual studio 2015\projects\speedpete\speedpete\battle.cpp(69): warning C4018: '<': signed/unsigned mismatch
+c:\users\george\documents\visual studio 2015\projects\speedpete\speedpete\battle.cpp(81): warning C4018: '<': signed/unsigned mismatch
+c:\users\george\documents\visual studio 2015\projects\speedpete\speedpete\battle.cpp(90): warning C4018: '<': signed/unsigned mismatch
+  SpeedPete.vcxproj -> C:\Users\George\Documents\Visual Studio 2015\Projects\SpeedPete\Debug\SpeedPete.exe
+  SpeedPete.vcxproj -> C:\Users\George\Documents\Visual Studio 2015\Projects\SpeedPete\Debug\SpeedPete.pdb (Full PDB)
